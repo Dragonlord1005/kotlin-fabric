@@ -1,0 +1,5 @@
+language = "nix"
+run = "gradle"
+
+[nix]
+channel = "unstable"
